@@ -171,16 +171,16 @@ export default function Home() {
 				{messages.length === 0 && (
 					<>
 						<p>
-							A fast, open-source voice assistant powered by{" "}
-							<A href="https://groq.com">Groq</A>,{" "}
-							<A href="https://cartesia.ai">Cartesia</A>,{" "}
-							<A href="https://www.vad.ricky0123.com/">VAD</A>,
-							and <A href="https://vercel.com">Vercel</A>.{" "}
+							{" "}
+							<A href="">Groq</A>,{" "}
+							<A href=""></A>,{" "}
+							<A href=""></A>,
+							and <A href=""></A>.{" "}
 							<A
-								href="https://github.com/ai-ng/swift"
-								target="_blank"
+								href=""
+								target=""
 							>
-								Learn more
+								
 							</A>
 							.
 						</p>
@@ -190,7 +190,7 @@ export default function Home() {
 						) : vad.errored ? (
 							<p>Failed to load speech detection.</p>
 						) : (
-							<p>Start talking to chat.</p>
+							<p>Start talking to Donald Trump.</p>
 						)}
 					</>
 				)}
