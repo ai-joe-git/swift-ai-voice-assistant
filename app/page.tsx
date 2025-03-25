@@ -172,10 +172,10 @@ export default function Home() {
 					<>
 						<p>
 							{" "}
-							<A href="">Groq</A>,{" "}
+							<A href=""></A>,{" "}
 							<A href=""></A>,{" "}
 							<A href=""></A>,
-							and <A href=""></A>.{" "}
+							<A href=""></A>.{" "}
 							<A
 								href=""
 								target=""
