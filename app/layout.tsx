@@ -7,7 +7,7 @@ import { Toaster } from "sonner";
 import { Analytics } from "@vercel/analytics/react";
 
 export const metadata: Metadata = {
-	title: "Swift",
+	title: "Talk to Donald",
 	description:
 		"Talk with Donald Trump!.",
 };
